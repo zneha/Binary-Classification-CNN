@@ -11,4 +11,8 @@ Data: (separate folders for train, validate and test)
   b. validate----separate folders for different classes 
 
   c. test--------make sure this data is not included while training your model
+  
+  
+  
+Also, please add respective paths to train, validate and test in the code wherever path is needed
     
