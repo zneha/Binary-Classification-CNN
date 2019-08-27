@@ -1,6 +1,6 @@
 # Binary-Classification-CNN
 
-Binary classification of images using Keras 
+Binary classification of images using Keras in Jupyter Notebook
 
 Create data folders in the following way:
 
